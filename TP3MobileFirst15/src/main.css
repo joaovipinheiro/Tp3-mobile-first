@@ -1,0 +1,20 @@
+.main-content {
+    padding: 20px;
+  }
+  
+  .content-section {
+    margin: 20px 0;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+  }
+  
+  .content-section h2 {
+    font-size: 1.8rem;
+    margin-bottom: 10px;
+  }
+  
+  .content-section p {
+    font-size: 1.2rem;
+  }
+  

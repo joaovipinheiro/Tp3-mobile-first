@@ -1,0 +1,19 @@
+.main-container {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .main-container p {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .main-container img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 30px;
+    border-radius: 8px;
+  }
+  

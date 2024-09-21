@@ -1,0 +1,17 @@
+footer {
+    background-color: #333;
+    padding: 10px;
+    text-align: center;
+    color: white;
+  }
+  
+  p {
+    font-size: 14px;
+  }
+  
+  @media (min-width: 576px) {
+    p {
+      font-size: 18px;
+    }
+  }
+  

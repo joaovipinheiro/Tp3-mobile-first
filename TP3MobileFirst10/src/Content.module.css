@@ -1,0 +1,11 @@
+.content {
+    padding: 20px;
+    background-color: #f4f4f4;
+    font-size: 1.2em;
+    color: #333;
+    line-height: 1.6;
+  }
+  
+  p {
+    margin: 10px 0;
+  }

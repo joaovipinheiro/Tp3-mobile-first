@@ -1,0 +1,44 @@
+.menu {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .menu-item {
+    background-color: #00796b;
+    padding: 15px;
+    text-align: center;
+    border-bottom: 1px solid #fff;
+  }
+  
+  .menu-item a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.2rem;
+    display: block;
+  }
+  
+  @media (min-width: 577px) and (max-width: 992px) {
+    .menu {
+      display: flex;
+      justify-content: space-between;
+    }
+  
+    .menu-item {
+      flex: 1;
+      padding: 10px;
+      border-bottom: none;
+    }
+  }
+  
+  @media (min-width: 993px) {
+    .menu {
+      display: flex;
+      justify-content: space-around;
+    }
+  
+    .menu-item {
+      flex: none;
+      padding: 10px;
+    }
+  }  
